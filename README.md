@@ -17,10 +17,6 @@ Built with SwiftUI and a single Metal fragment shader. No offline render step
 <img width="300" height="200" alt="Screenshot 2026-08-15 at 8 45 56 AM" src="https://github.com/user-attachments/assets/cd461796-678a-495e-ada0-31dcc11a1d88" />
 <img width="300" height="200" alt="Screenshot 2026-08-15 at 8 44 36 AM" src="https://github.com/user-attachments/assets/c1af90e3-598c-478b-a029-298aa4377f5d" />
 
-
-<img width="300" height="200" alt="2026-08-14_21-41-15" src="https://github.com/user-attachments/assets/56b7160f-8eaa-42bc-a27e-4d9b8df097a3" />
-<img width="300" height="200" alt="Screenshot 2026-08-15 at 8 45 22 AM" src="https://github.com/user-attachments/assets/3fe12c09-6dbf-4031-a194-10cc71babf2c" />
-
 ---
 
 ## Two ways to get this running
