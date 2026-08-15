@@ -8,9 +8,15 @@ and pushed out of shape live, at 60 frames a second, entirely on the GPU.
 Built with SwiftUI and a single Metal fragment shader. No offline render step
 — every control is playable while the image is running.
 
+<img width="600" height="450" alt="2026-08-09_21-59-24" src="https://github.com/user-attachments/assets/dd8e3585-93bd-4c6d-8b56-37fb69f17430" />
 <img width="700" height="500" alt="2026-08-14_21-34-23" src="https://github.com/user-attachments/assets/91095e16-fbc0-41e5-a0fe-54aac6cab1b9" />
 <img width="600" height="450" alt="2026-08-10_07-17-57" src="https://github.com/user-attachments/assets/1511ab9d-8487-4a9a-abdf-136db3ff6891" />
-<img width="600" height="450" alt="2026-08-09_21-59-24" src="https://github.com/user-attachments/assets/dd8e3585-93bd-4c6d-8b56-37fb69f17430" />
+<img width="800" height="550" alt="2026-08-14_21-09-17" src="https://github.com/user-attachments/assets/0c49d31b-8fac-4cfb-862d-ae3a2f266a30" />
+<img width="800" height="550" alt="2026-08-14_21-41-15" src="https://github.com/user-attachments/assets/56b7160f-8eaa-42bc-a27e-4d9b8df097a3" />
+<img width="250" height="225" alt="Screenshot 2026-08-15 at 8 12 58 AM" src="https://github.com/user-attachments/assets/a53da425-e166-4b02-87d2-52dc3f6ac1f9" />
+<img width="600" height="350" alt="2026-08-09_15-04-27" src="https://github.com/user-attachments/assets/2ff23722-9cb7-49b0-afa6-d4c42e184e55" />
+
+
 
 
 ---
