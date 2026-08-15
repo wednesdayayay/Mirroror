@@ -8,6 +8,11 @@ and pushed out of shape live, at 60 frames a second, entirely on the GPU.
 Built with SwiftUI and a single Metal fragment shader. No offline render step
 — every control is playable while the image is running.
 
+<img width="700" height="500" alt="2026-08-14_21-34-23" src="https://github.com/user-attachments/assets/91095e16-fbc0-41e5-a0fe-54aac6cab1b9" />
+<img width="600" height="450" alt="2026-08-10_07-17-57" src="https://github.com/user-attachments/assets/1511ab9d-8487-4a9a-abdf-136db3ff6891" />
+<img width="600" height="450" alt="2026-08-09_21-59-24" src="https://github.com/user-attachments/assets/dd8e3585-93bd-4c6d-8b56-37fb69f17430" />
+
+
 ---
 
 ## Two ways to get this running
