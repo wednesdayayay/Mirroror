@@ -122,7 +122,7 @@ mapping, all of it — is in this repository:
   canonical, most current version.
 - **`Mirroror-Manual.pdf`** — the same manual, for reading offline or
   printing.
-- **[Video Demo](https://youtu.be/9Fen73R1rzM)** 
+- **[Video Demo](https://youtu.be/D1iHrE1TMXg)** 
 - **Video Tutorial** coming soon...
 
 Start with Chapter 0 (About this instrument) and Chapter 1 (First look) if
