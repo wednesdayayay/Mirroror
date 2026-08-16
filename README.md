@@ -122,6 +122,8 @@ mapping, all of it — is in this repository:
   canonical, most current version.
 - **`Mirroror-Manual.pdf`** — the same manual, for reading offline or
   printing.
+- **'https://youtu.be/9Fen73R1rzM'** video demo
+- **'Video Tutorial'** coming soon...
 
 Start with Chapter 0 (About this instrument) and Chapter 1 (First look) if
 you're new to it. The manual ships without presets by design — every
